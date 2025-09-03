@@ -41,3 +41,4 @@ Mostly focused, didn't wander to other things to do, mostly poked around at the 
         2:00pm Break
 Total time of session: 45 min
         3:15pm Working on the WordFinder function
+        3:40 Completed project, published to github, posted link to Springboard
